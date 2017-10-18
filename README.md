@@ -1,4 +1,4 @@
-# Python webapp
+Python webapp
 ===============
 
 A python webapp practice.
